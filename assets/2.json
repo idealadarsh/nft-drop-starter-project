@@ -1,0 +1,19 @@
+{
+    "name": "Joker",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "26cBDb7zHmArmdqZPRB9gcosg5jNCFCm7x9AM6w7Ezpt",
+          "share": 100
+        }
+      ]
+    }
+  }
